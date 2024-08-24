@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer
 
-WhatsApp Chat Analyzer is a powerful tool designed to analyze and visualize WhatsApp chat data. It enables users to gain insights into their chat history by performing various analyses, such as sentiment analysis, word frequency, and topic modeling. Whether you're interested in understanding the overall tone of your conversations, identifying the most frequently discussed topics, or visualizing communication patterns, this tool provides a comprehensive solution.
+WhatsApp Chat Analyzer is a powerful tool designed to analyze and visualize WhatsApp chat data. It enables users to gain insights into their chat history by performing various analyses, such as sentiment analysis, word frequency, and topic modeling. Whether we are interested in understanding the overall tone of your conversations, identifying the most frequently discussed topics, or visualizing communication patterns, this tool provides a comprehensive solution.
 
 ## Features
 
