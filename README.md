@@ -11,11 +11,9 @@ WhatsApp Chat Analyzer is a powerful tool designed to analyze and visualize What
 - User-Specific Insights: Break down the analysis by individual users to compare communication styles and sentiment across different participants.
 - Message Volume Analysis: Track the volume of messages over time to identify trends, peak activity periods, and potential changes in communication frequency.
 
-#How It Works
-Data Input: Export your WhatsApp chat as a text file and import it into the analyzer.
+## How It Works
 
-Processing: The tool processes the chat data, extracting key information such as message timestamps, sender details, and message content.
-
-Analysis: Various analyses are performed on the extracted data, including sentiment analysis, word frequency, and topic modeling.
-
-Visualization: The results are presented in an easy-to-understand format, including graphs, charts, and other visual tools.
+-Data Input: Export your WhatsApp chat as a text file and import it into the analyzer.
+-Processing: The tool processes the chat data, extracting key information such as message timestamps, sender details, and message content.
+-Analysis: Various analyses are performed on the extracted data, including sentiment analysis, word frequency, and topic modeling.
+-Visualization: The results are presented in an easy-to-understand format, including graphs, charts, and other visual tools.
